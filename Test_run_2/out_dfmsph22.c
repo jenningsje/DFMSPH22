@@ -1,0 +1,3 @@
+  NUM  **** Arbitrary user comments *************************************** TypCalc * version * ZP  AP    RP0  ZT  AT    RT0     Rb       Ub   Homb    BZ  RbRPT0  Ub_BZ      C2b     C3b  i1chi2    VWS    rWS    aWS chi2WSmin A0GK A1GK A2GK  r0GK   aGK  chi2GKmin  ECM  kexc  kvNN   kDD kUC  Adel AdCor RCstart RCCfin
+    2 *2020.08.29 ==  12C+120Te ============================================<PfinDD3  <ver 22>   6  12  2.747  52 120  5.919  10.95    38.10   2.71  43.20  1.264  0.882    -1.93     0.62  96     -1240  0.850  0.790 4.6e-004  11.0  4.0  6.0 1.400 0.480  5.6e-004  63.00    1     1    3    0  -592     0 15.100  3.100
+ 

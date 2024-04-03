@@ -1,0 +1,3 @@
+  NUM  **** Arbitrary user comments *************************************** TypCalc * version * ZP  AP    RP0  ZT  AT    RT0     Rb       Ub   Homb    BZ  RbRPT0  Ub_BZ      C2b     C3b  i1chi2    VWS    rWS    aWS chi2WSmin A0GK A1GK A2GK  r0GK   aGK  chi2GKmin  ECM  kexc  kvNN   kDD kUC  Adel AdCor RCstart RCCfin
+    1 =2020.08.30 ====  p+58Ni =============================================<NL2_DD0  <ver 22>   1   1  1.200  28  58  4.645   7.70     4.80   4.27   5.75  1.317  0.835    -0.43     0.18   0         0  0.000  0.000 0.0e+000   0.0  0.0  0.0 0.000 0.000  0.0e+000  63.00    1    12    0    0  -592     0 15.100  3.100
+ 
